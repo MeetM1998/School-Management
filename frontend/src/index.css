@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.content-wrapper {
+  padding: 20px;
+  max-width: calc(100% - 280px);
+  margin-left: auto;
+  margin-top: 16px;
+}
+.toggleClickable {
+  margin-left: calc(100% - 239px);
+}
+.profileImg{
+  height: auto;
+  max-width: 120px;
+  width: 120px;
+}
